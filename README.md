@@ -16,7 +16,7 @@
 - 💻 I enjoy building responsive and user-friendly websites.
 - 🚀 I love turning ideas into real-world applications.
 - 🌱 I'm continuously improving my development skills.
-- 🎯 My goal is to grow as a professional web developer.
+- 🎯 My goal is to grow as a professional Full Stack Developer.
 - ✨ I believe creativity and clean code go hand in hand.
 
 ---
